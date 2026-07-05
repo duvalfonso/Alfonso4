@@ -7,7 +7,7 @@ Este proyecto está destinado como entrega a ramo Programación .Net
 
 ## Instalación
 
-Para ejecutar el proyecto, se requiere crear una base de datos en local dentro de la carpeta App_Data con el siguiente script
+Para ejecutar el proyecto, se requiere crear una base de datos en local con el nombre Prueba4.mdf dentro de la carpeta App_Data con el siguiente script:
 
 ```bash
 CREATE TABLE [dbo].[alumnos] (
